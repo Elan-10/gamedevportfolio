@@ -21,7 +21,7 @@ AstroCats
 A space themed rogue-like video game where a cat in a spaceship destroys waves of enemies due to aliens trying to take over thier planet.
 ![AstroCats Image](https://github.com/user-attachments/assets/99c12eb1-51f2-4bf3-8c06-3786e0793ac1)
 
-[group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
+[Group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
 
 [My contribution images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/AnotherStartScreenEH.pdf) 
 
