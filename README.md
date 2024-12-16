@@ -5,7 +5,10 @@ Class of 2025
 
 ## Term 1 Prodjects
 
-!
+![Shape Game](https://github.com/user-attachments/files/18152986/ShapeGame.pde.zip)
+
+![car](https://github.com/user-attachments/files/18153003/Car.pde.zip)
+
 
 ## Term 2 Prodjects
 
@@ -20,10 +23,10 @@ A space themed rogue-like video game where a cat in a spaceship destroys waves o
 
 [group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
 
-![My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/tree/main/src/AstroCats/data)
+[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/tree/main/src/AstroCats/data)
 
-![My contribution images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/AnotherStartScreenEH.pdf) 
+[My contribution images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/AnotherStartScreenEH.pdf) 
 
-![Mycontribution images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/GameOverScreenEH.pdf)
+[Mycontribution images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/GameOverScreenEH.pdf)
 
-![My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
