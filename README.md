@@ -24,9 +24,9 @@ A space themed rogue-like video game where a cat in a spaceship destroys waves o
 
 [Group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
 
-[My contribution- Images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/AnotherStartScreenEH.pdf) 
+![My contribution- Images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/AnotherStartScreenEH.pdf) 
 
-[My contribution- Images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/GameOverScreenEH.pdf)
+![My contribution- Images](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/GameOverScreenEH.pdf)
 
 [My contribution- Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
 
