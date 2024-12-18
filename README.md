@@ -19,7 +19,8 @@ Class of 2025
 
 AstroCats 
 
-A space themed rogue-like video game where a cat in a spaceship destroys waves of enemies due to aliens trying to take over thier planet.
+A space themed rogue-like video game where a cat in a spaceship destroys waves of enemies due to aliens trying to take over the entire universe inclduing thier planet. 
+
 ![AstroCats Image](https://github.com/user-attachments/assets/99c12eb1-51f2-4bf3-8c06-3786e0793ac1)
 
 [Group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
