@@ -1,5 +1,7 @@
 # Elan Horne's Game Development Portfolio
 
+Game Dev I Portfolio | Elan Horne |  elan.horne@icloud.com
+
 First year game development student interested in the history and facts about different gaming consoles and companies.
 Class of 2025
 
@@ -12,7 +14,6 @@ Class of 2025
 
 ## Term 2 Prodjects
 
-Game Dev I Portfolio | Elan Horne |  elan.horne@icloud.com
 
 ![Game Dev Certificate](https://github.com/user-attachments/files/18152459/Elan.K.Horne_Game.Development.Fundamentals_12162024.pdf)
 
