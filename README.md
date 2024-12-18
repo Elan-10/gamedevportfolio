@@ -24,7 +24,7 @@ A space themed rogue-like video game where a cat in a spaceship destroys waves o
 
 [Group Repository](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/README.md) 
 
-![My contribution- Images StartScreenEH.pdf](https://github.com/user-attachments/files/18184294/StartScreencopy.2.pdf)
+![My contribution- Images StartScreenEH.pdf]![Start](https://github.com/user-attachments/assets/0d239a90-8039-45b7-a96f-764f9ead7550)
 
 ![My contribution- Images GameOverScreenEH.pdf](https://github.com/user-attachments/files/18184120/GameOverScreenEH.pdf)
 
