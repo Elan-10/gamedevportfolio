@@ -9,9 +9,12 @@ Class of 2025
 ![Game Dev Certificate](https://github.com/user-attachments/files/18152459/Elan.K.Horne_Game.Development.Fundamentals_12162024.pdf)
 
 ## Term 1 Prodjects
-
+Shape game
+Get Pacman shaped object to collide with the Blue ghost object before the time runs out.
 ![Shape Game](https://github.com/user-attachments/files/18152986/ShapeGame.pde.zip)
 
+Car 
+Multiple different cars all different colors moving at different speeds and going different directions.
 ![Car](https://github.com/user-attachments/files/18153003/Car.pde.zip)
 
 
