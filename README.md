@@ -29,16 +29,16 @@ A space themed rogue-like video game where a cat in a spaceship destroys waves o
 
 [My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/tree/main/src/AstroCats/data)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/tree/main/src/AstroCats/data)
 
-[My contribution sounds](src/AstroCats/data/mixkit-largerexplosionEH-1702.wav)
+[My contribution Sounds](src/AstroCats/data/mixkit-largerexplosionEH-1702.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-acheivementsoundEH.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-acheivementsoundEH.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-POTENTIALbackground.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-negativesoundEH.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-negativesoundEH.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-smallexplosionEH-2759.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkit-smallexplosionEH-2759.wav)
 
-[My contribution sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkitsmall-lasersoundEH.wav)
+[My contribution Sounds](https://github.com/RubyJacobsen/GameDevTeam2/blob/main/src/AstroCats/data/mixkitsmall-lasersoundEH.wav)
