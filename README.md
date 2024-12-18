@@ -1,6 +1,7 @@
 # Elan Horne's Game Development Portfolio
 
-Game Dev I Portfolio | Elan Horne | Contact Info elan.horne@icloud.com
+Game Dev I Portfolio 
+Contact Info elan.horne@icloud.com
 
 First year game development student interested in the history and facts about different gaming consoles and companies.
 Class of 2025
@@ -11,7 +12,7 @@ Class of 2025
 
 ![Shape Game](https://github.com/user-attachments/files/18152986/ShapeGame.pde.zip)
 
-![car](https://github.com/user-attachments/files/18153003/Car.pde.zip)
+![Car](https://github.com/user-attachments/files/18153003/Car.pde.zip)
 
 
 ## Term 2 Prodjects
